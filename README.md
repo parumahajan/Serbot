@@ -1,3 +1,3 @@
 # Serbot
 
-This repository consist
+This repository consists
