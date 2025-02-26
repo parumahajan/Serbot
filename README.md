@@ -1,3 +1,3 @@
 # Serbot
 
-This reposito
+This repositor
